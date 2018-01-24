@@ -1,0 +1,192 @@
+body{
+  background: linear-gradient(150deg, #343436 , darkcyan);
+}
+#main{
+  margin:0 auto;
+  width:230px;
+  height:280px;
+  background-color:#d6eafd;
+}
+
+#upper-bar{
+  width:230px;
+  height:45px;
+  background: linear-gradient(135deg, darkcyan, #76daff);
+  margin:0 auto;
+  border-top-right-radius:20px;
+  border-top-left-radius:20px;
+
+}
+
+#dp{
+  position:relative;
+  top:5%;
+  left:10%;
+  height:40px;
+  width:40px;
+  background:url("https://orig00.deviantart.net/3730/f/2008/160/7/4/748771ac2b83bc8a4f5f8193abc376c0.jpg");
+  background-size:contain;
+  background-repeat:no-repeat;
+  border-radius:20px;
+  float:left;
+}
+
+#name{
+  position:relative;
+  top:10px;
+  left:13%;
+  color:white;
+  font-family:comic sans ms;
+}
+
+.fa-phone{
+  position:relative;
+  left:64%;
+  top:-8px;
+  color:white;
+}
+
+.fa-ellipsis-v{
+  position:relative;
+  left:69%;
+  top:-8px;
+  color:white;
+
+}
+
+.fa-video-camera{
+  position:relative;
+  left:40%;
+  top:-8px;
+  color:white;
+}
+
+.fa-arrow-left{
+  position:relative;
+  left:-34%;
+  top:-8px;
+  color:white;
+
+}
+
+#lower-bar{
+  width:230px;
+  height:45px;
+  background: linear-gradient(135deg, darkcyan, #76daff);
+  margin:0 auto;
+  border-bottom-right-radius:20px;
+  border-bottom-left-radius:20px;
+}
+
+#text-field{
+  position:relative;
+  top:4px;
+  left:4px;
+  width:80%;
+  height:80%;
+  background-color:white;
+  border-radius:200px;
+  float:left;
+}
+
+.fa-smile-o{
+  position:relative;
+  top:10px;
+  left:7px;
+  float:left;
+}
+
+#enter-message{
+  position: relative;
+  top:-11px;
+  left:24px;
+  border:none;
+  outline:none!important;
+  background:none;
+  resize:none;
+  font-family:comic sans ms;
+}
+
+.fa-paper-plane{
+  position:relative;
+  top:15px;
+  left:15px;
+  color:white;
+}
+
+#user-text-1{
+  position:relative;
+  height:40px;
+  top:10px;
+  left:60px;
+  background-color:#d6eafd;
+  text-align: left;
+  width:150px;
+  text-align: left;
+  overflow:hidden;
+  font-size:13px;
+  font-family:Roboto;
+  padding-left:10px;
+  border-top-left-radius:15px;
+border-bottom-left-radius:15px;
+border-bottom-right-radius:15px;
+}
+#batman-text-1{
+  position:relative;
+  height:40px;
+  top:20px;
+  left:10px;
+  padding-right:10px;
+  background-color:#d6eafd;
+  width:150px;
+  text-align: right;
+  font-size:13px;
+  font-family:Roboto;
+  border-top-right-radius:15px;
+border-bottom-left-radius:15px;
+border-bottom-right-radius:15px;
+}
+
+#batman-text-2{
+  position:relative;
+  height:40px;
+  top:40px;
+  left:10px;
+  padding-right:10px;
+  text-align:right;
+  font-size:13px;
+  font-family:Roboto;
+  background-color:#d6eafd;
+  width:150px;
+  border-top-right-radius:15px;
+border-bottom-left-radius:15px;
+border-bottom-right-radius:15px;
+}
+#user-text-2{
+  position:relative;
+  height:40px;
+  top:30px;
+  left:60px;
+  width:150px;
+  padding-left:10px;
+  background-color:#d6eafd;
+  font-size:13px;
+  font-family:Roboto;
+  border-top-left-radius:15px;
+border-bottom-left-radius:15px;
+border-bottom-right-radius:15px;
+}
+
+#unavailable{
+  position:relative;
+  height:15px;
+  width:205px;
+  left:12px;
+  top:70px;
+  background-color:#d6eafd;
+  color:white;
+  font-family:roboto;
+  text-align:center;
+  font-size:10px;
+  border-radius:5px;
+}
